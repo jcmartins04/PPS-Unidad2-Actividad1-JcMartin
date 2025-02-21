@@ -1,5 +1,5 @@
 # Trazado de una vulnerabilidad.
-Actividad 1 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con los Entornos de Desarrollo
+Actividad 1 de la Unidad 2 de Puesta en Producción Segura. Tabajaremos con los Entornos de Desarrollo
 
 Tenemos varios objetivos:
 
@@ -155,8 +155,8 @@ En algunas ocasiones nos podemos encontrar que en él figura información que no
 ## ENTREGA
 > __Realiza el trazado de la vulnerabilidad de la que informa [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)__
 
->__Crea un repositorio  con nombre PPS-Unidad2Actividad1-Tu-Nombre donde desarrolles dicho trazado.__
+>__Crea un repositorio  con nombre PPS-Unidad2-Actividad1-Tu-Nombre donde desarrolles dicho trazado.__
 
 > No te olvides de documentarlo convenientemente con explicaciones, capturas de pantalla, etc.
 
->__Sube a la plataforma, tanto el repositorio comprimido como la dirección a tu repositorio de Github.__
+>__Sube a la plataforma, tanto el repositorio comprimido como la dirección que apunta a tu repositorio de Github.__
