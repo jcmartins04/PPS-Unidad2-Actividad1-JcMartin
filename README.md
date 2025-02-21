@@ -28,7 +28,7 @@ También vamos a ver información de información adicional:
 
 - [Ver el grado de criticidad de una vulnerabilidad y a partir de qué datos se calcula: CVSS.](https://www.first.org/cvss/)
 
-- [Ver el marco MITRE ATT&CK ](https://attack.mitre.org/):
+- [Ver el marco MITRE ATT&CK ](https://attack.mitre.org/)
 
 ## Trazado
 Vamos a seguir el trazado de una vulnerabilidad a partir del [este artículo del INCIBE](https://www.incibe.es/empresas/avisos/autodesk-ha-publicado-multiples-vulnerabilidades-que-afectan-autocad).
